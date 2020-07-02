@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+npm-debug.log
+.vscode/*
+\.idea/
+google-service-key.json
+
+package-lock.json
+dist/
+server/key/
